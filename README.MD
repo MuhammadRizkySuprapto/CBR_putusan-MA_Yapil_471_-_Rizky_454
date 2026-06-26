@@ -21,8 +21,8 @@ This project implements a *Case-Based Reasoning* system to support legal analysi
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Descanden/CBR_putusan-MA.git
-cd CBR_putusan-MA
+git clone https://github.com/MuhammadRizkySuprapto/CBR_putusan-MA_Yapil_471_-_Rizky_454.git
+cd CBR_putusan-MA_Yapil_471_-_Rizky_454
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -55,7 +55,7 @@ pipreqs . --force
 ## Project Structure
 
 ```bash
-CBR_putusan-MA/
+CBR_putusan-MA_Yapil_471_-_Rizky_454/
 ├── data/
 │   ├── raw/                     # Cleaned court decision texts
 │   ├── processed/               # Metadata, features, vector representations
